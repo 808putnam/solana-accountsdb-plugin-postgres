@@ -2,6 +2,8 @@
 
 FULL_VERSION=$1
 
+# remove
+
 # TODO: Add back in when we can start using v prefixes
 # if [[ ${FULL_VERSION} != v* ]]; then
 #   echo "Version must start with 'v'"
